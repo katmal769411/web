@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+pandas
+matplotlib   # 解决当前报错的关键
+seaborn
+scikit-learn
